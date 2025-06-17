@@ -1,4 +1,4 @@
-# Hi I'm Jana 👋
+## Hi, I'm Jana 👋
 
 I'm a lecturer specializing in mobile app development, particularly Android.
 
